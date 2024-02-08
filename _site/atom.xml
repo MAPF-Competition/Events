@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>League of Robot Runners</title>
- <link href="http://localhost:3000/eventWebSiteTest/atom.xml" rel="self"/>
- <link href="http://localhost:3000/eventWebSiteTest/"/>
- <updated>2024-02-06T01:14:32-05:00</updated>
+ <link href="http://localhost:3000/Events/atom.xml" rel="self"/>
+ <link href="http://localhost:3000/Events/"/>
+ <updated>2024-02-08T15:33:07-05:00</updated>
  <id>http://localhost:3000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,10 +13,46 @@
 
  
  <entry>
+   <title>The League of Robot Runners The 2023 Virtual Event</title>
+   <link href="http://localhost:3000/2024/02/08/call_virtual_event/"/>
+   <updated>2024-02-08T00:00:00-05:00</updated>
+   <id>http://localhost:3000/Events/2024/02/08/call_virtual_event</id>
+   <content type="html">&lt;h3 id=&quot;call-for-participation-league-of-robot-runners-2023-virtual-event&quot;&gt;Call For Participation: League of Robot Runners 2023 Virtual Event&lt;/h3&gt;
+
+&lt;p&gt;Hello Robot Runners!&lt;/p&gt;
+
+&lt;p&gt;We are pleased to announce an upcoming virtual event to celebrate the conclusion of the League of Robot Runners competition!&lt;/p&gt;
+
+&lt;h4 id=&quot;aim&quot;&gt;Aim&lt;/h4&gt;
+&lt;p&gt;This event provides a fantastic opportunity for participants to share their experiences, insights, and the innovative approaches that made this competition truly remarkable.&lt;/p&gt;
+
+&lt;h4 id=&quot;event-highlights&quot;&gt;Event Highlights:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Keynote from Amazon:&lt;/strong&gt; We will invite keynote speakers from Amazon to talk about the importance of the problem.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Results Recap and Announcement of Winners:&lt;/strong&gt; Discover the outstanding achievements and noteworthy outcomes of the competition.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Participant Talks:&lt;/strong&gt; Each participant will have a 15-minute slot to present their experiences and insights. We encourage you to share your strategies, challenges overcome, and the lessons learned during the competition.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper and Video Presentation:&lt;/strong&gt; Participants are invited to prepare a paper along with a short 5-minute video presentation to accompany their talks. This provides an excellent opportunity to delve deeper into your methodologies and showcase your achievements visually.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;date-and-time&quot;&gt;Date and Time:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 21st May (tentative)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; Central Europe Time (tentative)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We look forward to your participation in this virtual event.&lt;/p&gt;
+
+&lt;p&gt;Should you have any questions or need further information, please feel free to reach out to [Organizer’s Contact Information].&lt;/p&gt;
+
+&lt;p&gt;Thank you for making the League of Robot Runners a resounding success, and we can’t wait to see you at the virtual event!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>The League of Robot Runners The 2024  Main round</title>
-   <link href="http://localhost:3000/2020/04/03/introducing-robotRunners/"/>
-   <updated>2020-04-03T00:00:00-04:00</updated>
-   <id>http://localhost:3000/eventWebSiteTest/2020/04/03/introducing-robotRunners</id>
+   <link href="http://localhost:3000/2023/04/03/introducing-robotRunners/"/>
+   <updated>2023-04-03T00:00:00-04:00</updated>
+   <id>http://localhost:3000/Events/2023/04/03/introducing-robotRunners</id>
    <content type="html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
 
 &lt;p&gt;The League of Robot Runners, sponsored by Amazon Robotics, is a competition where participants tackle one of the most complex optimization challenges: the coordination of multiple moving robots, which is important for industrial applications such as warehouse logistics, transportation and advanced manufacturing.&lt;/p&gt;
@@ -29,7 +65,7 @@
 
 &lt;p&gt;Participating in the competition means not only demonstrating your skills against the best in the field but also contributing to the establishment of new benchmarks and algorithmic baselines. You’ll have the chance to make a tangible impact on the progression of the research field, with the possibility of your innovative solutions being adopted by the wider community. Moreover, your involvement will help increase attention to this critical problem and contribute to the growth of our community.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;warehouse-demo_landing2.gif&quot; alt=&quot;Example&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../warehouse-demo_landing2.gif&quot; alt=&quot;Example&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;eligibility-and-prizes&quot;&gt;Eligibility and Prizes&lt;/h3&gt;
 
