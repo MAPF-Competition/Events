@@ -4,7 +4,7 @@
  <title>League of Robot Runners</title>
  <link href="http://localhost:3000/Events/atom.xml" rel="self"/>
  <link href="http://localhost:3000/Events/"/>
- <updated>2024-02-08T15:33:07-05:00</updated>
+ <updated>2024-02-08T18:36:44-05:00</updated>
  <id>http://localhost:3000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>The League of Robot Runners The 2023 Virtual Event</title>
+   <title>The League of Robot Runners The 2024 Virtual Event</title>
    <link href="http://localhost:3000/2024/02/08/call_virtual_event/"/>
    <updated>2024-02-08T00:00:00-05:00</updated>
    <id>http://localhost:3000/Events/2024/02/08/call_virtual_event</id>
-   <content type="html">&lt;h3 id=&quot;call-for-participation-league-of-robot-runners-2023-virtual-event&quot;&gt;Call For Participation: League of Robot Runners 2023 Virtual Event&lt;/h3&gt;
+   <content type="html">&lt;h3 id=&quot;call-for-participation-league-of-robot-runners-2024-virtual-event&quot;&gt;Call For Participation: League of Robot Runners 2024 Virtual Event&lt;/h3&gt;
 
 &lt;p&gt;Hello Robot Runners!&lt;/p&gt;
 

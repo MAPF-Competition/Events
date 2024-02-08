@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The League of Robot Runners The 2023 Virtual Event
+title: The League of Robot Runners The 2024 Virtual Event
 --- 
 
-### Call For Participation: League of Robot Runners 2023 Virtual Event
+### Call For Participation: League of Robot Runners 2024 Virtual Event
 
 Hello Robot Runners!
 
