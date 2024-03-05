@@ -4,24 +4,12 @@ title: Call for Submissions
 ---
 
 
-Hello Robot Runners!
-
 We invite all teams and team members from the League of Robot Runners to participate in our 2024 Virtual Expo, which takes place online May 20th, from 1530 EST (UTC-5).
 
 The expo is a community event where we celebrate and reflect on the recent competition round. It is an opportunity for participants to share their experiences and insights into the challenge problems, to tell the community about their innovative approaches, and to celebrate the performances that helped make the inaugural League of Robot Runners such a memorable success!
 
 To participate in the program teams and team members will submit a technical report on a relevant topic, as described in the Topics of Interest. Following a light review, selected works will be presented to the community, in the form of a technical talk. Written reports, and video recordings of the talks, will be made available for download during and after the expo.
 
-**Program Highlights:**
-
-The technical program will feature a number of sessions which will be of interest to competition participants and interested members of the broader community:
-
-
-
-* Industry Keynote from Amazon Robotics.
-* Awards Ceremony, to celebrate distinguished and noteworthy performances.
-* Technical talks from competing teams and team members.
-* Community meeting, to discuss the future direction of the competition.
 
 **Topics of Interest:**
 

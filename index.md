@@ -3,11 +3,12 @@ layout: default
 title: Home
 ---
 
-# The 2024 League of Robot Runners Virtual Expo
+# Welcome
 
-*on May 20th, 1530 EST (UTC-5)*
 
-The League of Robot Runners virtual expo is a community event where we celebrate and reflect on the recent competition round. It is an opportunity for participants to share their experiences and insights into the challenge problems, to tell the community about their innovative approaches, and to celebrate the performances that helped make the inaugural League of Robot Runners such a memorable success!
+The League of Robot Runners virtual expo is a community event where we celebrate and reflect on the League of Robot Runners [2023 competition main round](https://www.leagueofrobotrunners.org/). It is an opportunity for participants to share their experiences and insights into the challenge problems, to tell the community about their innovative approaches, and to celebrate the performances that helped make the inaugural League of Robot Runners such a memorable success!
+
+This is a **free event** open to the researhers and practioners interested in the League of Robot Runners competition and in the area of Multi-Agent Path Finding. We welcome [submissions](./call_for_submission/) for the technical program (informal, non-archival) from all teams and team memebers that participated the 2023 main round. Participation in the virtual expo is open to anyone, please refer to the [registration](./registration/) page for more details.
 
 **Program Highlights:**
 
