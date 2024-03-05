@@ -1,6 +1,6 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -25,12 +25,22 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+    <!-- <hr> -->
+
   </nav>
 
   <div class="sidebar-item">
+    <p><a href="https://www.leagueofrobotrunners.org">Competition Website</a></p>
+
+    <p><a  href="https://discord.com/invite/CEYT4g4raR">Discord</a></p>
+  </div>
+
+
+
+  <div class="sidebar-item">
+    <p>Currently v{{ site.version }}</p>
+
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>

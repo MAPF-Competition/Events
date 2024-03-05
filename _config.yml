@@ -1,7 +1,7 @@
 # Setup
 title:               League of Robot Runners
-tagline:             'MAPF-competition'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             'Virtual Expo 2024'
+description:         ''
 url:                 https://expo24.leagueofrobotrunners.org
 paginate:            1
 permalink:           pretty
@@ -23,5 +23,5 @@ plugins:
   # - another-jekyll-plugin
 
 # Custom vars
-version:             1.1.0
+version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
