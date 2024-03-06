@@ -1,0 +1,41 @@
+- title: Program Committee Chair
+  column: 1
+  members:
+  - name: Daniel Harabor
+    org: Monash University
+    post: ""
+    homepage: 
+  - name: Sven Koenig
+    org: University of Southern California
+    post: ""
+    homepage: ""
+  - name: Cathy Wu
+    org: Massachusetts Institute of Technology
+    post: ""
+    homepage: ""
+  - name: Jingjin Yu
+    org: Rutgers University
+    post: ""
+    homepage: ""
+- title: Organising Committee
+  column: 2
+  members:
+  - name: Shao-hung Chan
+    org: University of Southern California
+    homepage: 
+  - name: Zhe Chen
+    org: Monash University
+    homepage: ""
+  - name: Teng Guo
+    org: Rutgers University
+    homepage: ""
+  - name: Yue Zhang
+    org: Monash University
+    homepage: ""
+  - name: Han Zhang
+    org: University of Southern California
+    homepage: ""
+
+  # - name: K Varalakshmi
+  #   org: Osmania University, Hyderabad
+  #   homepage: ""

@@ -1,0 +1,137 @@
+full_name: Leauge of Robot Runners Workshop
+short_name: LoRR
+description: > # this means to ignore newlines until "baseurl:"
+  <p>The League of Robot Runners virtual expo is a community event where we celebrate and reflect on the <a href="https://www.leagueofrobotrunners.org/">League of Robot Runners 2023 competition main round</a>. It is an opportunity for participants to share their experiences and insights into the challenge problems, to tell the community about their innovative approaches, and to celebrate the performances that helped make the inaugural League of Robot Runners such a memorable success!</p>
+  
+  <p>This is a free event for researchers and practioners interested in the League of Robot Runners competition and in the area of Multi-Agent Path Finding. We welcome <a href="/submission.html">submissions</a> for the technical program (informal, non-archival) from all teams and team memebers that participated the 2023 main round. Attendance is open to anyone, including non-competitors and students. Please refer to the <a href="/registration.html">registration</a> page for more details.</p>
+email: zhe.chen@monash.edu
+
+iteration: 1st
+full_title: 1st League of Robot Runners Workshop
+short_title: 1st LoRR Workshop
+
+year: 2024
+date: May 20th, from 15:30 EST (UTC-5), 2024
+
+location: Virtually
+# country: Zoom
+
+logo_path: ./assets/images/7th_iscls_logo_name.png
+
+# if show_logo is false, show_title: false has no effect
+show_logo: true
+show_title: false
+
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/banner.png
+    description: The League of Robot Runners
+    photographer_name: ""
+    photographer_link: ""
+  - id: 1
+    image_path: ./assets/images/slideshow/banner2.png
+    description: The League of Robot Runners
+    photographer_name: ""
+    photographer_link: ""
+  - id: 2
+    image_path: ./assets/images/slideshow/banner3.png
+    description: The League of Robot Runners
+    photographer_name: ""
+    photographer_link: ""
+  - id: 3
+    image_path: ./assets/images/slideshow/warehouse-demo_landing2.gif
+    description: Simulated Warehouse
+    photographer_name: ""
+    photographer_link: ""
+  - id: 4
+    image_path: ./assets/images/slideshow/kiva.jpg
+    description: Fulfillment Warehouse
+    photographer_name: ""
+    photographer_link: ""
+    active: True
+  - id: 5
+    image_path: ./assets/images/slideshow/sortation.jpg
+    description: Sortation Warehouse
+    photographer_name: ""
+    photographer_link: ""
+
+  - id: 6
+    image_path: ./assets/images/slideshow/prize.png
+    description: Prize
+    photographer_name: ""
+    photographer_link: ""
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organization
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Calls for Papers
+    visible: True
+    children:
+    - id: 1
+      label: Call for Demos
+      path: /cfd.html
+      visible: False
+    - id: 2
+      label: Call for Papers
+      path: /cfp.html
+      visible: True
+  - id: 3
+    label: Submission
+    visible: True
+    children:
+    - id: 1
+      label: Submission
+      path: /submission.html
+      visible: True
+    - id: 2
+      label: Accepted Papers
+      path: /accepted.html
+      visible: True
+  - id: 4
+    label: Program
+    path: /program.html
+    visible: True
+  - id: 5
+    label: Venue
+    path: /venue.html
+    visible: False
+  - id: 6
+    label: Registration
+    path: /registration.html
+    visible: True
+deadline_timezone: AoE
+deadlines:
+  - date: 14th April 2024
+    timezone: AoE
+    text: Submission deadline
+    pass_due: False
+    strike_through: False
+  - date: 1st May April 2024
+    text: Notification of acceptance
+    pass_due: False
+    strike_through: False
+  - date: 10th May 2024
+    text: Final Version
+    pass_due: False
+    strike_through: False
+  
+sponsors:
+  - name: Amazon Robotics
+    logo_path: ./assets/images/sponsors/amazon.png
+    url: https://www.aboutamazon.com/news/tag/robotics
+#   - name: IEEE
+#     logo_path: ./assets/images/sponsors/ieee-logo.gif
+social_media:
+  facebook_link:
+  twitter_link:
+previous_iterations:
+  - name: 2023 main round
+    year: 2023
+    url: https://www.leagueofrobotrunners.org/
+

@@ -1,0 +1,33 @@
+portal: EasyChair
+url: " https://easychair.org/conferences/?conf=lorr2024"
+
+file_formats:
+  - PDF
+languages:
+  - English
+
+review_mode: 1
+# 0: double blind
+# 1: single blind
+
+pagelimits:
+  - type: long paper
+    name: Long Paper
+    limit: 8
+  - type: short paper
+    name: Short Paper
+    limit: 4
+  - type: Extended Abstract
+    name: Extended Abstract
+    limit: 2
+fontsize: 10
+
+
+
+template:
+  name: AAAI Submission Template
+  description: AAAI Athor Kit
+  url: https://aaai.org/aaai-conference/submission-instructions/
+  overleaf: https://www.overleaf.com/latex/templates/aaai-2023-author-kit/wxnmhzcrjbpc
+
+# publisher: Association for Computational Linguistics Anthology

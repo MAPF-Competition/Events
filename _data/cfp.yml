@@ -1,0 +1,43 @@
+description: >
+  We invite all teams and team members from the League of Robot Runners to participate in our 2024 Virtual Expo, which takes place online May 20th, from 15:30 EST (UTC-5).
+  The expo is a community event where we celebrate and reflect on the recent competition round. It is an opportunity for participants to share their experiences and insights into the challenge problems, to tell the community about their innovative approaches, and to celebrate the performances that helped make the inaugural League of Robot Runners such a memorable success!
+  To participate in the program teams and team members will submit a technical report on a relevant topic, as described in the Topics of Interest. Following a light review, selected works will be presented to the community, in the form of a technical talk. Written reports, and video recordings of the talks, will be made available for download during and after the expo
+submission: ./submission.html
+areas:
+- category: "Description of systems (algorithms, implementations) used in the competition."
+- category: "Post-competition data-analysis, including tools and methodologies."
+- category: "Position papers, reflecting on the competition setup, goals or any other related issues that will be of interest to the community"
+  # topics:
+  #   - Digital lexicons, thesauri and wordnets
+  #   - Computational phonology and morphology
+  #   - Syntactic analysis
+  #   - Prose order normalisation
+  #   - Parsing
+  #   - Discourse analysis
+  #   - Structural semantics
+  #   - Machine translation
+  #   - Automatic analysis of Sanskrit corpus
+  #   - Navya-Nyāya and other technical language processing
+  #   - Information extraction
+  #   - Named entity recognition
+# - category: "Shāstric Sanskrit Texts and Computation"
+#   topics:
+#     - Computer modeling and simulation of Paninian and other traditional grammars
+#     - Theories of Śābdabodha and Sanskrit computational processing
+# - category: "Sanskrit Digital Libraries Management"
+#   topics:
+#     - Tools for acquisition and maintenance of Sanskrit digital corpus
+#     - Library crawlers or search tools in Sanskrit corpus
+#     - Incorporation of grammatical information in Sanskrit corpus
+#     - Automated tools for evaluation of Sanskrit poetry, e.g., meter recognition/verification, alaṃkāra identification, śleṣa analysis
+#     - Software tools for phylogenic studies, intertextuality management, establishment of critical editions, and other philological applications
+#     - OCR recognition of romanized Sanskrit as well as ancient Indian scripts
+#     - Digital cataloguing of manuscripts
+#     - Annotation and editing
+#     - Alignment of text with images (including manuscripts)
+#     - User interface design
+# - category: "Miscellaneous Computer Applications Relevant to Sanskrit"
+#   topics:
+#     - Software tools for teaching Sanskrit
+#     - Sanskrit speech recognition and synthesis
+#     - Tools and applications for Sanskrit dissemination
