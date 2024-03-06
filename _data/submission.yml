@@ -17,7 +17,7 @@ pagelimits:
   - type: short paper
     name: Short Paper
     limit: 4
-  - type: Extended Abstract
+  - type: extended abstract
     name: Extended Abstract
     limit: 2
 fontsize: 10
