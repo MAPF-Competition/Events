@@ -26,7 +26,7 @@ fontsize: 10
 
 template:
   name: AAAI Submission Template
-  description: AAAI Athor Kit
+  description: AAAI Author Kit
   url: https://aaai.org/aaai-conference/submission-instructions/
   overleaf: https://www.overleaf.com/latex/templates/aaai-2023-author-kit/wxnmhzcrjbpc
 
