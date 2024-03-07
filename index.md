@@ -18,7 +18,7 @@ Attendance is open to anyone, including non-competitors and students. Please ref
 
 The technical program will feature a number of sessions which will be of interest to competition participants and interested members of the broader community:
 
-* Industry Keynote from Amazon Robotics.
+* [Industry Keynote](./invited_speaker/) from Amazon Robotics.
 * Awards Ceremony, to celebrate distinguished and noteworthy performances.
 * Technical talks from competing teams and team members.
 * Community meeting, to discuss the future direction of the competition.
