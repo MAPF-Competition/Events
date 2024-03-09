@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>The League of Robot Runners Virtual Expo 2024</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2024-03-07T19:38:30+11:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://expo24.leagueofrobotrunners.org/atom.xml" rel="self"/>
+ <link href="https://expo24.leagueofrobotrunners.org/"/>
+ <updated>2024-03-09T14:29:45+11:00</updated>
+ <id>https://expo24.leagueofrobotrunners.org</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>

@@ -15,17 +15,17 @@
 
   
 
-  <link rel="stylesheet" href="http://localhost:4000/public/css/poole.css">
-  <link rel="stylesheet" href="http://localhost:4000/public/css/syntax.css">
-  <link rel="stylesheet" href="http://localhost:4000/public/css/lanyon.css">
-  <link rel="stylesheet" href="http://localhost:4000/public/css/organisers.css">
+  <link rel="stylesheet" href="https://expo24.leagueofrobotrunners.org/public/css/poole.css">
+  <link rel="stylesheet" href="https://expo24.leagueofrobotrunners.org/public/css/syntax.css">
+  <link rel="stylesheet" href="https://expo24.leagueofrobotrunners.org/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://expo24.leagueofrobotrunners.org/public/css/organisers.css">
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="http://localhost:4000/public/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://expo24.leagueofrobotrunners.org/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="https://expo24.leagueofrobotrunners.org/public/favicon.ico">
 
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://localhost:4000/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://expo24.leagueofrobotrunners.org/atom.xml">
 
   
 </head>
@@ -37,6 +37,10 @@
      styles, `#sidebar-checkbox` for behavior. -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
+
+
+
+
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
@@ -44,7 +48,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="http://localhost:4000/">Home</a>
+    <a class="sidebar-nav-item" href="https://expo24.leagueofrobotrunners.org/">Home</a>
 
     
 
@@ -62,31 +66,31 @@
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:4000/call_for_submission/">Call for Submissions</a>
+          <a class="sidebar-nav-item" href="https://expo24.leagueofrobotrunners.org/call_for_submission/">Call for Submissions</a>
         
       
     
       
         
-          <a class="sidebar-nav-item active" href="http://localhost:4000/invited_speaker/">Invited Speaker</a>
+          <a class="sidebar-nav-item active" href="https://expo24.leagueofrobotrunners.org/invited_speaker/">Invited Speaker</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:4000/organisers/">Organisers</a>
+          <a class="sidebar-nav-item" href="https://expo24.leagueofrobotrunners.org/organisers/">Organisers</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:4000/registration/">Registration</a>
+          <a class="sidebar-nav-item" href="https://expo24.leagueofrobotrunners.org/registration/">Registration</a>
         
       
     
       
         
-          <a class="sidebar-nav-item" href="http://localhost:4000/schedule/">Schedule</a>
+          <a class="sidebar-nav-item" href="https://expo24.leagueofrobotrunners.org/schedule/">Schedule</a>
         
       
     
@@ -113,6 +117,22 @@
   </div> -->
 </div>
 
+<script>
+    // Function to set checkbox status based on screen size
+    function setCheckboxStatus() {
+      var checkbox = document.getElementById('sidebar-checkbox');
+      if (window.innerWidth >= 768) {
+        checkbox.checked = true; // Set checkbox to checked for large screens (PC)
+      } else {
+        checkbox.checked = false; // Set checkbox to unchecked for small screens (phones)
+      }
+    }
+    
+    // Call the function on page load and window resize
+    window.onload = setCheckboxStatus;
+    window.onresize = setCheckboxStatus;
+    </script>
+
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -122,7 +142,7 @@
           <h3 class="masthead-title">
             <a href="/" title="Home">The League of Robot Runners Virtual Expo 2024</a>
             <br/>
-            <small>May 20th, from 1530 EST (UTC-5)</small>
+            <small>May 20th, online from 1530 EST (UTC-5)</small>
           </h3>
         </div>
       </div>
