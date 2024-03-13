@@ -8,7 +8,7 @@
 
     if(!checkbox.checked ||
        sidebar.contains(target) ||
-       (target === checkbox || target === toggle)) return;
+       (target === checkbox || target === toggle)||window.innerWidth >= 768) return;
 
     checkbox.checked = false;
   }, false);
